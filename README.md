@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tonyhungry, Tony Hung in real life. 
-- 👀 I’m interested in social netowrk analysis, statistics/data science, and topics between the envrionment and economics.
+- 👀 I’m interested in statistics/data science and topics between the envrionment and economics.
 - 🌱 I’m currently learning HTML and CSS on freecodecamp.org!
 - 🌟 Currently looking for PhD/lecturer positions in The Netherlands!
 - 📫 How to reach me: tonyhung.th@gmail.com 

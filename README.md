@@ -1,7 +1,6 @@
 -   :wave: Hi, I’m \@tonyhungry, Tony Hung in real life.
 -   :eyes: I’m interested in statistics/network analysis and topics between the environment and economics!
--   :seedling: I’m currently working as an Economics Lecturer at Maastricht University.
--   :star2: Currently looking for PhD positions in The Netherlands!
+-   :seedling: I’m currently a PhD Candidate at Maastricht University.
 -   :mailbox: How to reach me: [tonyhung.th\@gmail.com](mailto:tonyhung.th@gmail.com)
 -   :dizzy: My personal [website](https://tonyhungry.github.io)
 
